@@ -1,25 +1,17 @@
 Extension(s): 
 ```
-.cryptbit
+.([RANDOM])
 ```
 Ransom Note(s): 
 ```
-CryptBIT-restore-files.txt
+instructions.txt
 Wallpaper
 ```
-![qm1q8w0eh](https://github.com/user-attachments/assets/dc602625-7218-44a7-86cb-e44d0856e8ed)
+![z8jab4l2b](https://github.com/user-attachments/assets/06cbfd66-14e6-436f-9ac6-695af3d61c54)
 ```
-Hello!
-All your files are encrypted and stolen by us.
-All files are on our server.
-To recover the files, transfer the value of EUR 400 in bitcoins to the address indicated below
-Add information about your e-mail. The decryptor will be sent to it.
-We guarantee that after paying the ransom, you will receive a decryption program for your files
-We suggest that you do not use any decryption software other than those provided by us
-as this may permanently destroy your files :p
+hello.
+we are Ford, we encrypted our files because you are not aware of what you are downloading from the internet
+If you want to encrypt the files, you have to pay us
 
-Bitcoin wallet: 17CqMQFeuB3NTzJ2X28tfRmWaPyPQgvoHV
-
-Have a nice day
-CryptBIT ransomwere group
+The price of bitcoin is 0000.20
 ```
