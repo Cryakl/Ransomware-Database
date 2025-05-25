@@ -11,7 +11,7 @@ Unlock Code:
 ```
 12345
 ```
-![Insert Popup Window Screenshot here]
+![Popup Window](https://github.com/amdfanboi/Ransomware-Database/blob/main/Xorist/12345/popup.png)
 ```
 Внимание! Все Ваши файлы зашифрованы!
 Чтобы восстановить свои файлы и получить к ним доступ, 
