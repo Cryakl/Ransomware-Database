@@ -8,7 +8,7 @@ HOW TO DECRYPT FILES.txt
 Popup Window
 Wallpaper
 ```
-![Insert Popup Window Screenshot here]
+![Popup Window](https://github.com/amdfanboi/Ransomware-Database/blob/main/Xorist/Anonymous/popup.png)
 ![Insert Wallpaper here]
 ```
 ¡ATENCION!
