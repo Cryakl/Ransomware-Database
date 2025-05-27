@@ -1,10 +1,18 @@
+Note(s):  
+```
+Also drops Winlocker.
+```
+Extension(s): 
+```
+.([dungeon]-0_0)
+```
 Ransom Note(s): 
 ```
 HOW TO DECRYPT FILES.txt
 Popup Window
+Wallpaper
 ```
-![Insert Popup Window Screenshot here]
-
+![mdfhiklnoabdeghj](https://github.com/user-attachments/assets/33f08d6e-895e-4dd7-968f-8e507ef6c615)
 ```
 
 
