@@ -8,8 +8,8 @@ HOW TO DECRYPT FILES.txt
 Popup Window
 Wallpaper
 ```
-![Popup Window](https://github.com/amdfanboi/Ransomware-Database/blob/main/Xorist/Anonymous/popup.png)
-![Insert Wallpaper here]
+![Pop](https://github.com/user-attachments/assets/f8a1b6c3-417b-4780-93f9-c5ef5a2b5ac9)  
+![mnpbcefhiklnoabd](https://github.com/user-attachments/assets/a94e119c-8fca-450b-8a73-17c7aab3b09e)  
 ```
 ¡ATENCION!
 ¡TODOS SUS ARCHIVOS ESTAN ENCRIPTADOS!
