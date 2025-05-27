@@ -1,3 +1,7 @@
+Note(s):  
+```
+Unlock key: 12345
+```
 Extension(s): 
 ```
 .EnCiPhErEd
@@ -7,11 +11,7 @@ Ransom Note(s):
 КАК РАСШИФРОВАТЬ ФАЙЛЫ.txt
 Popup Window
 ```
-Unlock Code:
-```
-12345
-```
-![Popup Window](https://github.com/amdfanboi/Ransomware-Database/blob/main/Xorist/12345/popup.png)
+![Capture](https://github.com/user-attachments/assets/8b9a2010-a069-4217-b1b6-a2b3f4c6bbcc)
 ```
 Внимание! Все Ваши файлы зашифрованы!
 Чтобы восстановить свои файлы и получить к ним доступ, 
