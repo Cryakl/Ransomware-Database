@@ -5,6 +5,7 @@ Extension(s):
 Ransom Note(s): 
 ```
 РАСШИФРУЕМ ЗДЕСЬ.txt
+Wallpaper
 ```
 ![hjmoacdeghjkmnpa](https://github.com/user-attachments/assets/f502217c-b1e9-4c62-ab7c-4091538908f0)  
 ```
