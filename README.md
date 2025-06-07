@@ -1,3 +1,5 @@
+<b>NOTE: This repository isn't actively being updated.</b>
+<br>
 <p align="center">
   <img width="128" height="128" src="https://github.com/user-attachments/assets/a0f1cf7d-2a7d-4f90-87f8-0c9958f5c9c2">
 </p>
