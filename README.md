@@ -10,6 +10,7 @@
 <p align="center">
 <p align="center">
 <b>These samples aren't something for you to run on your PC, they aren't builders/constructors in any form.</b><br>
+<b>They are live ransomware threats for researchers who are interested in reversing, analyzing or looking into how they work.<b><br>
 <b>If you want to research these samples, I recommend sandboxes like <a href="https://app.any.run">ANY.RUN</a>, <a href="https://tria.ge">Triage</a> & <a href="https://analyze.intezer.com">Intezer</a>.</b><br>
 <br>
 <sup><sub>I disclaim all liability for any issues, damages and losses arising from the research/use of these ransomware samples.</sub></sup><br>
