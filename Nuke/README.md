@@ -9,7 +9,7 @@ Ransom Note(s):
 ```
 ![html](https://github.com/user-attachments/assets/a74b403a-9bff-43c9-adf8-c5f6296275db)
 ```
-NUCLEAR#55 ~ <USER-PC>
+NUCLEAR#55 ~ <Computer_Name>
 
 !! Your files and documents on this computer have been encrypted !!
 
