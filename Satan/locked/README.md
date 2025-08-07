@@ -6,4 +6,4 @@ Ransom Note(s):
 ```
 [HOW_TO_DECRYPT_FILES].html
 ```
-![satlocked](https://github.com/user-attachments/assets/5d12532d-4d97-4636-9ae0-bbad10a7d0e2)
+![satlocked](https://github.com/user-attachments/assets/c7224fed-339d-4c01-a9e8-a27c6e1110cb)
