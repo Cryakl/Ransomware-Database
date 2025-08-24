@@ -1,0 +1,31 @@
+Extension(s): 
+```
+.sigrun
+```
+Ransom Note(s): 
+```
+RESTORE-SIGRUN.html 
+RESTORE-SIGRUN.txt
+```
+![html](https://github.com/user-attachments/assets/1917a159-c549-4486-b70c-56d525d952fa)
+```
+~~~~~~SIGRUN RANSOMWARE~~~~~~~~~
+
+Attention! 
+All your files documents, photos, databases and other important files are encrypted and have the extension: .sigrun
+The only method of recovering files is to purchase a private key. It is on our server and only we can recover your files. 
+
+But don't worry! You still can restore it!
+
+In order to restore it you need to contact with us via e-mail.
+
+ -----------------------------------------------
+ | Our e-mail is: decrypt_sigrun@protonmail.ch |
+ -----------------------------------------------
+
+As a proof we can decrypt 3 files for free!
+
+Please, attach this to your message:
+
+User_ID
+```
