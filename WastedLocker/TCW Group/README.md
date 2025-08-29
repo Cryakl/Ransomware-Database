@@ -1,0 +1,23 @@
+Extension(s): 
+```
+.tcwwasted
+```
+Ransom Note(s): 
+```
+any file with .tcwwasted_info extension
+```
+```
+TCW GROUP
+
+YOUR NETWORK IS ENCRYPTED NOW
+
+USE 27396@PROTONMAIL.CH | 32034@AIRMAIL.CC TO GET THE PRICE FOR YOUR DATA
+
+DO NOT GIVE THIS EMAIL TO 3RD PARTIES
+
+DO NOT RENAME OR MOVE THE FILE
+
+THE FILE IS ENCRYPTED WITH THE FOLLOWING KEY:
+[begin_key]KEY[end_key]
+KEEP IT
+```
