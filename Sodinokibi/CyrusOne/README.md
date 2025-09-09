@@ -57,18 +57,5 @@ ONE MORE TIME: Its in your interests to get your files back. From our side, we (
 
 -----------------------------------------------------------------------------------------
 ** Customers
-Barnes Group, Inc.
-Clarity Group, Inc
-Corbin Capital Partners LP
-DSM Capital Partners
-Fi-Tek, LLC
-FIA Technology Services, Inc.
-Franklin Credit Management Corp.
-Innovapost, Inc.
-Investment Metrics, LLC
-Private Client Resources LLC
-Sompo International
-Value Line Publishing LLC
-Vestmark, Inc.
-and so on......
+[REDACTED]
 ```
