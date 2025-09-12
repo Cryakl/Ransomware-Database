@@ -6,4 +6,4 @@ Ransom Note(s):
 ```
 Wallpaper
 ```
-![desk](https://github.com/user-attachments/assets/114a9249-2835-4545-b75a-d43a0f36cc84)
+![desk_moshiax](https://github.com/user-attachments/assets/695c7d3b-301d-485d-9e0a-cf6e8a02e117)
