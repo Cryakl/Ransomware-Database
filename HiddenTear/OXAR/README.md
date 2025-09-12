@@ -8,8 +8,8 @@ Ransom Note(s):
 Popup Window
 Wallpaper
 ```
-![popup](https://github.com/user-attachments/assets/9d50c0a6-c7f5-498a-afda-85ecda82a167)
-![wallpaper](https://github.com/user-attachments/assets/c9fb6b00-669a-439c-bec9-622b0860ff05)
+![popup](https://github.com/user-attachments/assets/50e69a67-3293-4284-a629-a15a61dae601)
+![wallpaper](https://github.com/user-attachments/files/22302420/wallpaper.bmp)
 ```
 What Happened to My Computer?
 Your important files are encrypted.
