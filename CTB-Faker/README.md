@@ -7,7 +7,7 @@ Ransom Note(s):
 Beni Oku.txt
 images.jpg
 ```
-![images](https://github.com/user-attachments/assets/f61fa98f-5952-4b97-808c-4c77c107d50c)
+![images](https://github.com/user-attachments/assets/7ae55253-a89f-4fff-9bc0-910a1941147d)
 ```
 1 - Dosyalarınızdaki şifrelemeyi kaldırmak için 12UamJ75Pf4skx4P9r3hn3whvoKUfbbURf bitcoin adresine 150 USD değerinde bitcoin göndermeniz gerekmektedir.
 2 - 150 USD değerinde bitcoin gönderimi yapıldıktan sonra d3crypt0r@lelantos.org adresine Belgelerim klasörünüzün içerisinde bulunan privateKey.XML dosyasını
