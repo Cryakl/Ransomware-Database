@@ -7,7 +7,7 @@ Ransom Note(s):
 README.txt
 Wallpaper
 ```
-![0x00070000000254e2-6884](https://github.com/user-attachments/assets/1f83b3ad-fa34-4cf5-990c-2039635a468d)
+![desk_moshiax](https://github.com/user-attachments/assets/695c7d3b-301d-485d-9e0a-cf6e8a02e117)
 ```
 твои файлы зашифрованы, для дешифровки
 пиши на почту byaki_buki@aol.com
