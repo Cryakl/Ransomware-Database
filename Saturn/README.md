@@ -7,7 +7,7 @@ Ransom Note(s):
 #DECRYPT_MY_FILES#.html
 #DECRYPT_MY_FILES#.txt
 ```
-![html](https://github.com/user-attachments/assets/6d8c3e8e-a631-4adf-adcb-73d84dac8310)
+![html](https://github.com/user-attachments/assets/a0d3b24d-7bbb-489e-9998-18a070bc4f7f)
 ```
     S A T U R N
 
