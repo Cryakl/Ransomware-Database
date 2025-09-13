@@ -6,5 +6,5 @@ Ransom Note(s):
 ```
 #Decrypt_Files_ReadMe#.rtf
 ```
-![rtf1](https://github.com/user-attachments/assets/b09d6f12-25de-4edf-bed1-5576dcbc00f9)
-![rtf2](https://github.com/user-attachments/assets/16c008bc-9451-4b5d-8148-623d55eaacb1)
+![rtf1](https://github.com/user-attachments/assets/4c92a48d-bd09-49d2-bbf7-cd723e9c321f)
+![rtf2](https://github.com/user-attachments/assets/0e07c9d1-52ee-4072-800d-d682ee84e64a)
