@@ -7,5 +7,5 @@ Ransom Note(s):
 DECRYPT-FILES.html
 Wallpaper
 ```
-![html](https://github.com/user-attachments/assets/d59293c6-eece-44e7-9112-ba003b453911)
-![wallpaper](https://github.com/user-attachments/assets/f89f2191-fd3a-48ea-8a2b-11da97635a21)
+![html](https://github.com/user-attachments/assets/024f480b-c12c-4ada-8cce-3e8ca3ce423a)
+![wallpaper](https://github.com/user-attachments/assets/eb0d0c46-8f21-47bb-a746-11e7241330b2)
