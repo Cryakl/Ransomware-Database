@@ -6,4 +6,4 @@ Ransom Note(s):
 ```
 Popup Window
 ```
-![note](https://github.com/user-attachments/assets/056bf594-a3ac-4d76-948b-acfef433b2b3)
+![popup](https://github.com/user-attachments/assets/c71e9433-2a80-498d-bbf8-e51406456c75)
