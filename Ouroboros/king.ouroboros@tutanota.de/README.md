@@ -9,9 +9,9 @@ Login Screen Messgae
 Popup Window
 Wallpaper
 ```
-![popup](https://github.com/user-attachments/assets/735420ef-ce6e-42aa-b03c-d92f9ce4f868)
-![wallpaper](https://github.com/user-attachments/assets/b5aca549-9f7c-47d0-8f8c-425a3a7b1917)
-![loginscreen](https://github.com/user-attachments/assets/c26dff51-aea2-486f-90fa-20096451acd4)
+![popup](https://github.com/user-attachments/assets/3f4771aa-c022-468f-ab7e-4800d1f35416)
+![wallpaper](https://github.com/user-attachments/assets/7c04e895-f281-428a-a72e-c93c9141372a)
+![loginscreen](https://github.com/user-attachments/assets/1417617d-a53d-4868-8b6a-4eb373779301)
 ```
 All your files have been encrypted!
 The encryption key has been sent online and is not public.
