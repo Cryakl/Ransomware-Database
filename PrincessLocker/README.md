@@ -8,13 +8,13 @@ Ransom Note(s):
 =_THIS_TO_FIX_[Random].html
 =_THIS_TO_FIX_[Random].url
 ```
-![html](https://github.com/user-attachments/assets/b80e7f27-94e2-4fc0-bf42-92fc6046d8ab)
+![html](https://github.com/user-attachments/assets/f6b56f06-92ab-4d34-96d7-64da5d20a43f)
 ```
 
  hpeECbqS CqXdyb qhBGhoryp 
  
   
-          Your ID: aYwM47PbzSwvZQA6
+          Your ID: User_ID
           Your extension: ZcZRlH
 
 ()   Your files are encrypted!

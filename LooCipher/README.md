@@ -8,8 +8,8 @@ Ransom Note(s):
 Popup Window
 Wallpaper
 ```
-![popup](https://github.com/user-attachments/assets/06fcd665-e6cd-4ffb-b41d-b6fc46611938)
-![wallpaper](https://github.com/user-attachments/assets/bb6bce87-d921-4ad4-9de2-4ca3d79f3f6f)
+![popup](https://github.com/user-attachments/assets/e53a6545-6748-4bfb-8f2b-a689d6ea3ad7)
+![wallpaper](https://github.com/user-attachments/assets/04e32088-9eb3-4299-bb34-d9db944722b4)
 ```
 Q:  What happened to my files?
 A:  All your important files (including those on the network disks, USBs, etc.) have been encrypted using a strong algorithm with a private and unique key generated for you.

@@ -6,4 +6,4 @@ Ransom Note(s):
 ```
 HOW DECRIPT FILES.hta 
 ```
-![hta](https://github.com/user-attachments/assets/33b4d7ed-4f79-4f44-8f21-1dc1f770f233)
+![hta](https://github.com/user-attachments/assets/2f344538-d260-4179-8dd7-fb8be4a95344)

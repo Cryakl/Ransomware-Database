@@ -8,8 +8,8 @@ decrypt.txt
 Popup Window
 Wallpaper
 ```
-![popup](https://github.com/user-attachments/assets/28bf0427-326a-4580-8a57-d1d6bde4c9dc)
-![wallpaper](https://github.com/user-attachments/assets/0ea98213-efb5-4d83-896f-73bdf942fe2a)
+![popup](https://github.com/user-attachments/assets/9384d927-c89c-4283-98ea-f0e5aabed9d2)
+![wallpaper](https://github.com/user-attachments/assets/d0196302-d848-499a-8d65-f4fa11e80074)
 ```
 Hi.
 All your files have been ENCRYPTED by DONUT Ransomware.

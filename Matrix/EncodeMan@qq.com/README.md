@@ -7,6 +7,6 @@ Ransom Note(s):
 #README_EMAN#.rtf
 Wallpaper
 ```
-![rtf1](https://github.com/user-attachments/assets/446ab734-d431-4370-ad3c-90232e924e12)
-![rtf2](https://github.com/user-attachments/assets/396c3a9a-e716-41d2-b198-3e9963909884)
-![wallpaper](https://github.com/user-attachments/assets/67b38390-e8c5-479b-983f-d14631e3497e)
+![rtf1](https://github.com/user-attachments/assets/65aaa84a-3b71-495d-9583-05cd9e7ef659)
+![rtf2](https://github.com/user-attachments/assets/24bb224f-1132-4643-a98f-2e7c045f6b7c)
+![wallpaper](https://github.com/user-attachments/assets/2c7fc4bf-7f6e-4aa4-b936-9bce4ac46453)

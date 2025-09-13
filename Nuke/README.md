@@ -6,8 +6,10 @@ Ransom Note(s):
 ```
 !!_RECOVERY_instructions_!!.html
 !!_RECOVERY_instructions_!!.txt
+Wallpaper
 ```
-![html](https://github.com/user-attachments/assets/a74b403a-9bff-43c9-adf8-c5f6296275db)
+![html](https://github.com/user-attachments/assets/e1f46a64-85bc-4979-88af-621bb618c607)
+![desktop_wallpaper](https://github.com/user-attachments/assets/ce449611-bf06-494e-9bad-1fda01234e44)
 ```
 NUCLEAR#55 ~ <Computer_Name>
 

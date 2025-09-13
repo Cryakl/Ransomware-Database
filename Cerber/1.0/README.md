@@ -8,7 +8,7 @@ Ransom Note(s):
 # DECRYPT MY FILES #.txt
 # DECRYPT MY FILES #.vbs
 ```
-![html](https://github.com/user-attachments/assets/edb78922-e693-421a-a6e1-767beb7c1ef5)
+![UntitledProject-ezgif com-optimize](https://github.com/user-attachments/assets/e6391d3b-05c4-40df-bbc9-e2ee2c669e12)
 ```
   
   

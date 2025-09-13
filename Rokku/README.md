@@ -7,7 +7,7 @@ Ransom Note(s):
 README_HOW_TO_UNLOCK.HTML
 README_HOW_TO_UNLOCK.TXT
 ```
-![htmlnote](https://github.com/user-attachments/assets/3a0a0320-c197-4354-a2e1-1c9b1cb39c14)
+![htmlnote](https://github.com/user-attachments/assets/a2518c51-0082-46ce-adbc-1a26ae94106d)
 ```
 YOUR FILE HAS BEEN LOCKED
 In order to unlock your files, follow the instructions bellow:

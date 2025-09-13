@@ -6,5 +6,5 @@ Ransom Note(s):
 ```
 #What_Wrong_With_Files#.rtf 
 ```
-![rtc1](https://github.com/user-attachments/assets/5c507ecb-8f7e-46bd-8a90-b64bcbcd6ca4)
-![rtc2](https://github.com/user-attachments/assets/b2c3209a-cd3c-43b6-9884-198606d3d378)
+![rtf1](https://github.com/user-attachments/assets/524aa820-787b-4633-826f-9dc4f020bed6)
+![rtf2](https://github.com/user-attachments/assets/8ae4fa68-b83f-4e3c-85c7-f384bb35c792)

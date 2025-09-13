@@ -7,7 +7,7 @@ Ransom Note(s):
 YOUR_FILES_ARE_ENCRYPTED.TXT
 Popup Window
 ```
-![popup](https://github.com/user-attachments/assets/00199d96-b40a-4f0a-8f1b-07bd33800aaa)
+![popup](https://github.com/user-attachments/assets/32f02bb4-8728-4a23-88d9-3235f41e7a2a)
 ```
 SEON RANSOMWARE ver 0.2
 all your files has been encrypted

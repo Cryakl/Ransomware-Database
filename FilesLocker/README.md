@@ -8,8 +8,8 @@ Ransom Note(s):
 #解密我的文件#.txt
 Popup Window
 ```
-![popupcn](https://github.com/user-attachments/assets/e1461e38-ddc4-4b94-a782-4da02f655d2f)
-![popupen](https://github.com/user-attachments/assets/ab49948c-f3b1-40f6-8926-7e1336ab8971)
+![popupcn](https://github.com/user-attachments/assets/61ab5e0b-4427-4f09-9ca8-f47e8735a531)
+![popupen](https://github.com/user-attachments/assets/433c1eac-9c00-4bd6-919c-bc09ff229761)
 ```
 FilesL0cker RAN$OMWARE
 ########################################### 

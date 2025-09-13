@@ -7,7 +7,7 @@ Ransom Note(s):
 RESTORE-SIGRUN.html 
 RESTORE-SIGRUN.txt
 ```
-![html](https://github.com/user-attachments/assets/1917a159-c549-4486-b70c-56d525d952fa)
+![html](https://github.com/user-attachments/assets/ae8287d4-36c0-4f4d-948e-663aef28e910)
 ```
 ~~~~~~SIGRUN RANSOMWARE~~~~~~~~~
 

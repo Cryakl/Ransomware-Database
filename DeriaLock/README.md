@@ -6,4 +6,4 @@ Ransom Note(s):
 ```
 Popup Window
 ```
-![deria](https://github.com/user-attachments/assets/21eb879f-4f00-4bde-b258-b1ad4ba52046)
+![deria](https://github.com/user-attachments/assets/5c92a1fb-2610-4a71-96ed-09f74b6942a8)

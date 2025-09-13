@@ -10,4 +10,4 @@ Ransom Note(s):
 ```
 Popup Window
 ```
-![exocrypt](https://github.com/user-attachments/assets/5ebd1b4e-13f5-4774-a95b-f64e6bfcb2ac)
+![exocrypt](https://github.com/user-attachments/assets/46698dc5-b96f-440b-a5f9-2e1a891356b9)

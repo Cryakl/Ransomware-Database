@@ -7,5 +7,5 @@ Ransom Note(s):
 Popup Window
 Wallpaper
 ```
-![popup](https://github.com/user-attachments/assets/d74b47a1-fe72-4443-87dc-2f49b6f15b0c)
-![wallpaper](https://github.com/user-attachments/assets/0759d735-9442-4402-9f1a-cfc40831602c)
+![popup](https://github.com/user-attachments/assets/8a1bfe29-7408-4019-9a29-11c06db08ba8)
+![background](https://github.com/user-attachments/assets/9057184e-a954-4aed-8004-5fd43d4d3b16)
