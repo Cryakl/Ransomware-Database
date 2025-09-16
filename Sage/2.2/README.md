@@ -7,4 +7,4 @@ Ransom Note(s):
 !HELP_SOS.hta
 Wallpaper
 ```
-![599](https://github.com/user-attachments/assets/27a4b2ea-d283-4c69-8515-19f76a6011d6)
+![wallpaper](https://github.com/user-attachments/assets/ac5adb4e-15d0-4353-a193-ce85ff6df431)

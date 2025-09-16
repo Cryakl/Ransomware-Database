@@ -7,7 +7,7 @@ Ransom Note(s):
 FILES ENCRYPTED.txt
 Popup Window
 ```
-![dh_skynet45](https://github.com/user-attachments/assets/18297d3f-5097-48a3-b232-625dabcb0dab)
+![popup](https://github.com/user-attachments/assets/85f18ab9-1028-4f35-988a-081791c9783a)
 ```
 all your data has been locked us
 You want to return?

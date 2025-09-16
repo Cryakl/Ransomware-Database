@@ -7,7 +7,7 @@ Ransom Note(s):
 [Random]-DECRYPT.txt
 Wallpaper
 ```
-![pidor](https://github.com/user-attachments/assets/6b0b7528-4ef7-4176-87f2-ccb729991d2a)
+![wallpaper](https://github.com/user-attachments/assets/22b0e775-8045-41fb-919f-ed98d50045cf)
 ```
 ---=    GANDCRAB V5.0.4  =--- 
 

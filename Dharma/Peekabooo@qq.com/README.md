@@ -7,7 +7,7 @@ Ransom Note(s):
 FILES ENCRYPTED.txt
 Popup Window
 ```
-![dhpeekabooo](https://github.com/user-attachments/assets/17bb34b5-fa8c-414a-8fb9-217bb4135307)
+![popup](https://github.com/user-attachments/assets/b8a73097-e250-4fdd-bdad-4f2f811b0395)
 ```
 all your data has been locked us
 You want to return?

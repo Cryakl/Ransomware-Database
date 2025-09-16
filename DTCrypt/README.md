@@ -10,4 +10,4 @@ Ransom Note(s):
 ```
 Popup Window
 ```
-![dtcrypt](https://github.com/user-attachments/assets/8f8cb115-ae6b-40f2-93f6-502ee5268eb2)
+![dtcrypt](https://github.com/user-attachments/assets/8646448d-78aa-4910-977b-8b485ee27dd5)
