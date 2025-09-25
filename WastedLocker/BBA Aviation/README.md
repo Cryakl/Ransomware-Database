@@ -1,0 +1,23 @@
+Extension(s): 
+```
+.bbawasted
+```
+Ransom Note(s): 
+```
+any file with .bbawasted_info extension
+```
+```
+BBA Aviation
+
+YOUR NETWORK IS ENCRYPTED NOW
+
+USE 91645@PROTONMAIL.CH | 61258@ECLIPSO.CH TO GET THE PRICE FOR YOUR DATA
+
+DO NOT GIVE THIS EMAIL TO 3RD PARTIES
+
+DO NOT RENAME OR MOVE THE FILE
+
+THE FILE IS ENCRYPTED WITH THE FOLLOWING KEY:
+[begin_key]KEY[end_key]
+KEEP IT
+```
