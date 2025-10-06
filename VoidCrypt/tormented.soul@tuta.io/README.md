@@ -1,6 +1,6 @@
 Note(s): 
 ```
-For an unknown reason, note is left in C:\Users\<username>\AppData\Local with a random filename.
+For an unknown reason, note is left in C:\Users\<username>\AppData\Local with a filename ecbf0d5a3a180bb.
 ```
 Extension(s): 
 ```
@@ -8,7 +8,7 @@ Extension(s):
 ```
 Ransom Note(s): 
 ```
-[Random_Filename]
+ecbf0d5a3a180bb
 ```
 ```
 All Your Files Has Been Encrypted
