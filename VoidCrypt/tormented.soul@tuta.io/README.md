@@ -4,7 +4,7 @@ For an unknown reason, note is left in C:\Users\<username>\AppData\Local with a 
 ```
 Extension(s): 
 ```
-.[tormented.soul@tuta.io][MJ-ZB9021754368].bom
+.[tormented.soul@tuta.io][User_ID].bom
 ```
 Ransom Note(s): 
 ```
