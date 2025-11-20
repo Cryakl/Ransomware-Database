@@ -2,8 +2,8 @@ Extension(s):
 ```
 .hc
 ```
-Wallpaper:
-
+Wallpaper:  
+<img width="477" height="268" alt="holycat" src="https://github.com/user-attachments/assets/86b89035-f733-44b5-ab7d-aacf88bb5e0e" />
 
 Ransom Note(s): 
 ```
