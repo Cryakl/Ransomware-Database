@@ -4,36 +4,27 @@ Extension(s):
 ```
 Ransom Note(s): 
 ```
-@WanaDecryptor@.bmp
-@WanaDecryptor@.exe
-@Please_Read_Me@.txt
+Skunk.BMP
+SkunkDecryptor.EXE
+READ_THIS.TXT
 Popup Window
 Wallpaper
 ```
 ![WannaCry2](https://github.com/user-attachments/assets/710b7b51-67ea-4fbf-8e0c-007e278a3a6b)  
 ![@WanaDecryptor@](https://github.com/user-attachments/assets/5aa0af6e-5ad9-4c93-9aa6-2a531a9c9cc4)  
 ```
-Q:  What's wrong with my files?
+Oops! Your files have been encrypted with military grade encryption by skunksomware!
 
-A:  Ooops, your important files are encrypted. It means you will not be able to access them anymore until they are decrypted.
-    If you follow our instructions, we guarantee that you can decrypt all your files quickly and safely!
-    Let's start decrypting!
+< How do I get my files back?
+> To decrypt your files, you must lobby or protest against malware prosecution. M.Z. Skuanks was arrested for a MS DOS virus he made 20 years ago, before malware laws were what they are now. This is unjust, and Skuanks should have not been prosecuted. To decrypt your files, upload proof of you lobbying or protesting, and we will reach out to you and give you a key to decrypt your files.
 
-Q:  What do I do?
+< How do I decrypt my files once I have a key?
+> Your files will be incorrectly decrypted, which will corrupt them.
 
-A:  First, you need to pay service fees for the decryption.
-    Please send $300 worth of bitcoin to this bitcoin address: 13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94
+< What's a LAN worm?
+> A LAN worm is a worm that spreads via LAN (local area network). Skunksomware is a LAN worm, once it runs, it scans your network for any other devices connected to it, and uses an exploit to run itself on said device if vulnerable.
 
-    Next, please find an application file named "@WanaDecryptor@.exe". It is the decrypt software.
-    Run and follow the instructions! (You may need to disable your antivirus for a while.)
-    
-Q:  How can I trust?
-
-A:  Don't worry about decryption.
-    We will decrypt your files surely because nobody will trust us if we cheat users.
-    
-
-*   If you need our assistance, send a message by clicking <Contact Us> on the decryptor window.
- 
+< Why?
+> To protest the unjust prosecution of M.Z. Skuanks, and the terrible malware laws. Blame the government.
 ```
 
